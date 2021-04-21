@@ -31,11 +31,8 @@ contribute to someone else's cause and the more meaningful and
 impactful the giving/contributing/sharing/helping/teaching/etc, 
 the more valuable. Many many interesting ideas are coming together
 that would be nothing short of transformative miracles; refocusing 
-Attention and energy and effort on the all the things that need it
-most.
-- 📫 How to reach me ...
+Attention and energy and effort on all the things/places/people that 
+need it most.
+- 📫 How to reach me:
 Email: <a href="mailto://jamesdlilley@gmail.com">jamesdlilley@gmail.com</a>
-<!---
-jamesdlilley/jamesdlilley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
